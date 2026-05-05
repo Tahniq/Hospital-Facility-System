@@ -16,3 +16,6 @@ Users can register as Admin, Doctor, Patient, Staff, Lab Technician, Receptionis
 - On signup → save in DB & redirect to dashboard
 - Confirmation email sent
 **Status: Implemented**
+
+## WAIT-1: Wait Module
+Receptionist adds patients to a waiting queue so doctors can see order and manage appointments easily.

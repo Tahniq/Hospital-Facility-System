@@ -17,6 +17,22 @@ Users can register as Admin, Doctor, Patient, Staff, Lab Technician, Receptionis
 - Confirmation email sent
 **Status: Implemented**
 
+## WAIT-1: Wait Module
+Receptionist adds patients to a waiting queue so doctors can see order and manage appointments easily.
+
+## AUTH-1: User Signup Module
+## ROUND-1: round Module
+Users can THE WAITING TIME 
+
+## WAIT-2: Waite 2 Module
+Doctor or receptionist monitors patient queue and waiting time.
+
+## BED-1-1: User Bed -1 Module
+
+## BED-2: User Bed -2 Module
+
+## SHIFT-1: shift Module
+Shift Swap Staff
 ## DOC-1: Add Doctor
 Admin can add doctor with name, specialization, schedule
 - Doctor name required

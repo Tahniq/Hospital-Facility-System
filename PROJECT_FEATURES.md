@@ -23,3 +23,9 @@ Admin can add doctor with name, specialization, schedule
 - Specialization required
 - Schedule must be valid
 **Status: Implemented**
+
+## LAB-1: Add Lab Technician
+Admin can add lab technician
+- Technician name required
+- Department assigned
+**Status: Implemented**

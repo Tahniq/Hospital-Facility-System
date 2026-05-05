@@ -181,3 +181,30 @@ Dashboard panels for medicine inventory management
 - Helps identify consumption patterns
 - Export report option available
 **Status: Implemented**
+
+## DIAG-1: Diagnostic Test Queue
+Manage diagnostic tests from request to completion
+
+### Request Test (Doctor):
+- Doctor enters Patient ID and Test Type
+- Test request added to diagnostic queue
+- Priority (Normal/Emergency) can be set
+- Estimated completion time shown
+
+### Pending Tests Panel:
+- Shows all tests waiting to be processed
+- Sort by priority, date, or test type
+- Lab technician can start test
+
+### Tests in Progress Panel:
+- Shows tests currently being processed
+- Estimated remaining time displayed
+- Technician can mark as completed
+
+### Completed Tests Panel:
+- Shows all completed tests
+- Lab technician uploads test results
+- File types: PDF, JPG, PNG (max 10MB)
+- LED triggers when all reports for patient are ready
+- Patient history includes all previous test reports
+**Status: Implemented**

@@ -34,3 +34,14 @@ Receptionist can book appointments for patients
 - Appointment saved in database
 - Success message shown after booking
 **Status: Implemented**
+
+## APP-2: View/Manage Appointments
+Admin and Staff can view and manage all appointments
+- All appointments listed with correct details
+- Filter by date, doctor, status
+- Cancel appointments with reason
+- Reschedule appointments to new time slot
+- Notification sent on status change
+- Export appointments to PDF/CSV
+- Success message on update
+**Status: Implemented**

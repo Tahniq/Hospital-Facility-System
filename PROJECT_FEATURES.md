@@ -6,6 +6,10 @@ Admin can add doctor with name, specialization, schedule
 - Schedule must be valid
 **Status: Implemented**
 
+## LAB-1: Add Lab Technician
+Admin can add lab technician
+- Technician name required
+- Department assigned
 ## STAFF-1: Add Staff
 Admin can add staff members
 - Staff name required

@@ -16,3 +16,10 @@ Users can register as Admin, Doctor, Patient, Staff, Lab Technician, Receptionis
 - On signup → save in DB & redirect to dashboard
 - Confirmation email sent
 **Status: Implemented**
+
+## DOC-1: Add Doctor
+Admin can add doctor with name, specialization, schedule
+- Doctor name required
+- Specialization required
+- Schedule must be valid
+**Status: Implemented**

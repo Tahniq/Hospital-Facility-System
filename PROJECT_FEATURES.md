@@ -159,3 +159,25 @@ Operator, Pharmacy, and Admin can manage medicine stock
 - Stock in and stock out records maintained
 - Success message shown after update
 **Status: Implemented**
+
+## MED-2: Med Stock Panels
+Dashboard panels for medicine inventory management
+
+### Medicine Inventory Panel:
+- Displays all medicines with current stock levels
+- Columns: Medicine Name, Quantity, Expiry Date, Status
+- Search/filter by medicine name
+- Sort by stock level or expiry date
+
+### Low Stock Medicines Panel:
+- Shows medicines below minimum threshold
+- Highlighted in red/orange for visibility
+- Reorder button for quick restocking
+- SMS alert sent automatically
+
+### Recently Used Medicines Panel:
+- Tracks medicines dispensed recently
+- Shows date and quantity used
+- Helps identify consumption patterns
+- Export report option available
+**Status: Implemented**

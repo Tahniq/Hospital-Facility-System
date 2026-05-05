@@ -23,3 +23,10 @@ Admin can add doctor with name, specialization, schedule
 - Specialization required
 - Schedule must be valid
 **Status: Implemented**
+
+## STAFF-2: Edit/View Staff List
+Admin can view and manage staff list
+- Staff list displayed
+- Edit staff info
+- Delete staff
+**Status: Implemented**

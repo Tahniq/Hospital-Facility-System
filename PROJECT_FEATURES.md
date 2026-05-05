@@ -50,3 +50,16 @@ Receptionist can book appointments for patients
 - Appointment saved in database
 - Success message shown after booking
 **Status: Implemented**
+
+## BILL-1: Create Invoice
+Receptionist and Staff can generate invoices for patients
+- Patient must be selected from database
+- Add service items with quantity and price
+- Auto-calculate total (qty × price - discount + tax)
+- Invoice ID auto-generated
+- Payment method must be selected
+- Mark invoice as paid or partial payment
+- Balance tracking for partial payments
+- Download invoice as PDF
+- Success message shown
+**Status: Implemented**

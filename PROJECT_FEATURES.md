@@ -98,6 +98,15 @@ All users can view and edit their profile information
 - Success message shown
 **Status: Implemented**
 
+Receptionist and Admin can register new patients
+- All required fields must be filled
+- Fields: name, email, phone, gender, dob, blood group, address, emergency contact
+- Email must be unique
+- Phone must be valid (11 digits)
+- Blood group must be selected from valid options
+- Emergency contact is required
+- Unique Patient ID auto-generated on save
+- Data stored in database
 ## BILL-2: View Billing History
 Staff and Patients can view billing history
 - All invoices listed with correct details
@@ -124,4 +133,16 @@ Admin, Receptionist, and Lab Technician can upload medical reports
 - Data stored linked to patient record
 - Success message shown after upload
 - LED indicator triggers when all reports for patient are complete
+## PAT-2: Edit/View Patient List
+Admin and Receptionist can view and edit patient information
+- All patient data displayed correctly in table
+- Columns: Name, Email, Phone, Blood Group, Status
+- Search/filter by name, ID, blood group
+- View button shows full patient details
+- Edit button opens form with pre-filled data
+- Validation same as Add Patient on edit
+- Updated data saved to database
+- Delete button with confirmation before delete
+- Patient history preserved on delete flag
+- Success message shown on update/delete
 **Status: Implemented**

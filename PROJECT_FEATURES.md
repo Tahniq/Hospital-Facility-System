@@ -17,6 +17,11 @@ Users can register as Admin, Doctor, Patient, Staff, Lab Technician, Receptionis
 - Confirmation email sent
 **Status: Implemented**
 
+## AUTH-3: Admin Dashboard
+Admin can view system overview with panels
+- Total Doctors, Total Patients, Total Staff counts
+- Click panels redirect to respective lists
+- Full navigation menu to all modules
 ## WAIT-1: Wait Module
 Receptionist adds patients to a waiting queue so doctors can see order and manage appointments easily.
 

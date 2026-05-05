@@ -23,3 +23,10 @@ Admin can add doctor with name, specialization, schedule
 - Specialization required
 - Schedule must be valid
 **Status: Implemented**
+
+## STAFF-1: Add Staff
+Admin can add staff members
+- Staff name required
+- Role required
+- Contact info required
+**Status: Implemented**

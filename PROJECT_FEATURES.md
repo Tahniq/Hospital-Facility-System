@@ -97,3 +97,17 @@ All users can view and edit their profile information
 - Redirect to login after change
 - Success message shown
 **Status: Implemented**
+
+## BILL-2: View Billing History
+Staff and Patients can view billing history
+- All invoices listed with correct details
+- Filter by status (Paid/Unpaid/Partial)
+- Filter by date range
+- Filter by patient name
+- View invoice details
+- Download invoice as PDF
+- Staff cannot delete invoices
+- Patients see only their own invoices
+- Unpaid invoices clearly marked
+- Correct totals shown
+**Status: Implemented**

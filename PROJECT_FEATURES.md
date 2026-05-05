@@ -111,3 +111,17 @@ Staff and Patients can view billing history
 - Unpaid invoices clearly marked
 - Correct totals shown
 **Status: Implemented**
+
+## PAT-2: Edit/View Patient List
+Admin and Receptionist can view and edit patient information
+- All patient data displayed correctly in table
+- Columns: Name, Email, Phone, Blood Group, Status
+- Search/filter by name, ID, blood group
+- View button shows full patient details
+- Edit button opens form with pre-filled data
+- Validation same as Add Patient on edit
+- Updated data saved to database
+- Delete button with confirmation before delete
+- Patient history preserved on delete flag
+- Success message shown on update/delete
+**Status: Implemented**

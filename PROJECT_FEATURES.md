@@ -1,4 +1,10 @@
 
+## DOC-1: Add Doctor
+Admin can add doctor with name, specialization, schedule
+- Doctor name required
+- Specialization required
+- Schedule must be valid
+**Status: Implemented**
 
 ## STAFF-1: Add Staff
 Admin can add staff members

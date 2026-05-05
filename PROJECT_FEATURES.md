@@ -28,3 +28,5 @@ Users can THE WAITING TIME
 Doctor or receptionist monitors patient queue and waiting time.
 
 ## BED-1-1: User Bed -1 Module
+
+## BED-2: User Bed -2 Module

@@ -23,3 +23,9 @@ Admin can add doctor with name, specialization, schedule
 - Specialization required
 - Schedule must be valid
 **Status: Implemented**
+
+## OPERATOR-1: Add Operator
+Admin can add system operator
+- Operator name required
+- Role assigned
+**Status: Implemented**

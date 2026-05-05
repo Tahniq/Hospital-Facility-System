@@ -97,3 +97,14 @@ All users can view and edit their profile information
 - Redirect to login after change
 - Success message shown
 **Status: Implemented**
+
+Receptionist and Admin can register new patients
+- All required fields must be filled
+- Fields: name, email, phone, gender, dob, blood group, address, emergency contact
+- Email must be unique
+- Phone must be valid (11 digits)
+- Blood group must be selected from valid options
+- Emergency contact is required
+- Unique Patient ID auto-generated on save
+- Data stored in database
+**Status: Implemented**

@@ -16,3 +16,10 @@ Users can register as Admin, Doctor, Patient, Staff, Lab Technician, Receptionis
 - On signup → save in DB & redirect to dashboard
 - Confirmation email sent
 **Status: Implemented**
+
+## DOC-2: Edit/View Doctor List
+Admin can view and edit doctor details
+- Doctor list displayed
+- Edit option available
+- Delete option available
+**Status: Implemented**

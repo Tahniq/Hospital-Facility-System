@@ -111,3 +111,17 @@ Staff and Patients can view billing history
 - Unpaid invoices clearly marked
 - Correct totals shown
 **Status: Implemented**
+
+## PAT-3: Upload Patient Report
+Admin, Receptionist, and Lab Technician can upload medical reports
+- Patient must be selected from database
+- Doctor can be selected (optional)
+- Report title is required
+- Report date is required
+- File upload: PDF, JPG, PNG only
+- File size limit: max 10MB
+- Notes field optional for additional comments
+- Data stored linked to patient record
+- Success message shown after upload
+- LED indicator triggers when all reports for patient are complete
+**Status: Implemented**

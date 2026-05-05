@@ -23,3 +23,14 @@ Admin can add doctor with name, specialization, schedule
 - Specialization required
 - Schedule must be valid
 **Status: Implemented**
+
+## APP-1: Create Appointment
+Receptionist can book appointments for patients
+- Patient and Doctor must be selected from database
+- Date cannot be in the past
+- Time slot must be available (no double booking)
+- Reason for appointment optional
+- Confirmation notification sent to patient and doctor
+- Appointment saved in database
+- Success message shown after booking
+**Status: Implemented**

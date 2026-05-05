@@ -146,3 +146,16 @@ Admin and Receptionist can view and edit patient information
 - Patient history preserved on delete flag
 - Success message shown on update/delete
 **Status: Implemented**
+
+## MED-1: Med Stock - Update Stock
+Operator, Pharmacy, and Admin can manage medicine stock
+- Medicine name must be entered
+- Quantity must be entered (positive number)
+- Add new medicine to inventory
+- Update existing medicine quantity
+- Minimum stock level can be set for alerts
+- Low stock alert (SMS notification) when below minimum
+- Expiry date tracking for medicines
+- Stock in and stock out records maintained
+- Success message shown after update
+**Status: Implemented**

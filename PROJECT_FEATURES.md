@@ -50,3 +50,26 @@ Receptionist can book appointments for patients
 - Appointment saved in database
 - Success message shown after booking
 **Status: Implemented**
+
+## PROFILE-1: Profile Management & Change Password
+All users can view and edit their profile information
+
+### View/Edit Profile:
+- Profile data pre-filled from database
+- Email is read-only (cannot be changed)
+- Phone must be valid (11 digits)
+- Profile photo upload (JPG/PNG only, max 2MB)
+- License number required for medical staff
+- Updated data saved in database
+- Success message shown after update
+
+### Change Password:
+- Current password must match database
+- New password must be ≥ 8 characters
+- Confirm password must match new password
+- Old and new password cannot be the same
+- Password updated in database
+- Session invalidated on change
+- Redirect to login after change
+- Success message shown
+**Status: Implemented**

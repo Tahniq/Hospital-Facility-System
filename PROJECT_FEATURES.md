@@ -23,3 +23,6 @@ Receptionist adds patients to a waiting queue so doctors can see order and manag
 ## AUTH-1: User Signup Module
 ## ROUND-1: round Module
 Users can THE WAITING TIME 
+
+## WAIT-2: Waite 2 Module
+Doctor or receptionist monitors patient queue and waiting time.
